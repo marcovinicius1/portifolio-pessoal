@@ -56,3 +56,8 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) 
 ---
 
 ⭐ Se este projeto te ajudou, deixe uma estrela!
+
+
+![pt1](https://github.com/user-attachments/assets/01032691-a52b-4dcc-85f9-a5510911c002)
+![pt2](https://github.com/user-attachments/assets/8f86af0f-e546-437c-a8c9-30e6e15ed32b)
+![pt3](https://github.com/user-attachments/assets/dc0c1b0d-d926-4d71-b2d2-8e20c23e73a8)
