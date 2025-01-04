@@ -57,7 +57,15 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) 
 
 ⭐ Se este projeto te ajudou, deixe uma estrela!
 
+## Dark Mode
 
 ![pt1](https://github.com/user-attachments/assets/01032691-a52b-4dcc-85f9-a5510911c002)
 ![pt2](https://github.com/user-attachments/assets/8f86af0f-e546-437c-a8c9-30e6e15ed32b)
 ![pt3](https://github.com/user-attachments/assets/dc0c1b0d-d926-4d71-b2d2-8e20c23e73a8)
+
+##  Light Mode
+
+![pt4](https://github.com/user-attachments/assets/5f23e04f-8844-4647-9e87-3a62a64a5be3)
+![pt5](https://github.com/user-attachments/assets/0bf05d34-7652-4ef8-ab86-4b1974f984dc)
+![pt6](https://github.com/user-attachments/assets/ae7eebec-8ef4-43b0-a910-c0dfccee6caf)
+
